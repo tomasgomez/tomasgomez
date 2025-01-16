@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @tomasgomez and this is my Github, I had used mostly for my college assessment so it is a little bit outdated, anyway, I'm coming back and happy to say that I started learning about blockchain and developing new personal projects.
+- 👋 Hi, I’m @tomasgomez and this is my Github, I had used mostly for my college assessment so it is a little bit outdated, also my working projects are private so it is only visible the college ones, anyway, I'm here glad to respond any question ready to develop new projects.
 
